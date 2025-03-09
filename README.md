@@ -8,4 +8,3 @@
 - 🌱 I’m currently learning Deep learning 
 - 👯 I’m looking to collaborate on Audio based Generative models 
 - 📫 How to reach me: abhishekdileep99@gmail.com
-- ⚡ Fun fact: ...
